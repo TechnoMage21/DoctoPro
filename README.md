@@ -51,10 +51,5 @@ The **DoctoPro Medical Data Authentication Process** follows a multi-step approa
 - **Web Server**: Apache
 
 ## Installation & Setup
-
-### 1. Install Dependencies
-
-Ensure you have **PHP**, **Composer**, and **OpenSSL** installed on your system. Then, install the necessary PHP libraries:
-
 ```bash
-composer install
+git clone https://github.com/TechnoMage21/DoctoPro/e
